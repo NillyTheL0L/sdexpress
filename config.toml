@@ -1,0 +1,45 @@
+baseurl = "/"
+title = "Studio D Express"
+theme = "rsimple"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+
+[taxonomies]
+  tag = "tags"
+
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Studio D Express"
+    description = "topos de bolos extramamente rapidos"
+    instagram = "https://instagram.com/studiodartes"
+    email = "studiodartesofc@gmail.com"
+    opengraph = true
+    dateFormat = "Mon, Jan 2, 2021"
+
+[Permalinks]
+    post = "/:filename/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Inicio"
+    pre = "<i class='fas fa-home'></i>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fas fa-pen-square'></i>"
+    url = "/post/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Sobre"
+    pre = "<i class='fas fa-info'></i>"
+    url = "/page/"
+    weight = 3
+
+

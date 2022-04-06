@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2022-04-06T17:44:13+00:00</lastmod>
+  </url><url>
+    <loc>/page/sobre/sobre-nos/</loc>
+    <lastmod>2022-04-06T17:44:13+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-04-06T17:44:13+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-04-06T17:41:05+00:00</lastmod>
+  </url><url>
+    <loc>/topo-bahia/</loc>
+    <lastmod>2022-04-06T17:41:05+00:00</lastmod>
+  </url><url>
+    <loc>/hello/</loc>
+    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
